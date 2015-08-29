@@ -1,3 +1,4 @@
+//program to change time of clock hour only
 #include <GLUT/glut.h>
 
 #include <string.h>
